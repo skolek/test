@@ -1,1 +1,1 @@
-pierwszy:jeden
+trzeci:trzy
